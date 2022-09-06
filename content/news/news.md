@@ -5,17 +5,37 @@ tags = ["News"]
 categories = ["News"]
 banner = "img/banners/2016.jpg"
 +++
+## 2022
+<br>
+<br>
+#### <li> 2022.07 Congratulations to Zhongxu and Miaomiao for their papers recently published in <em>Gastroenteroloy</em> and <em>Cell Death & Disease</em>! </li>
+<br>
+#### <li> 2022.06 Our invited review paper was published in <em>Trends in Genetics</em>! Congratulations and Tan and Hao! </li>
+<br>
+#### <li> 2022.03 Congratulations to Zhongxu Zhu for his paper recently published in <em>Molecular Cancer</em>! </li>
+<br>
+<br>
 
 ## 2021 
 <br>
+#### <li> 2021.11 Dr. Wang started his new career in the Chinese University of Hong Kong Faculty of Medicine! </li>
+<br>
+#### <li> 2021.09 Congratulations to Yu Chen, Tan Wu, and Zhongxu Zhu for their paper recently published in <em>Seminars in Cancer Biology</em>! </li>
+<br>
+#### <li> 2021.09 New member: Chen Tianhang joined our group as a new PhD student in September! </li>
+<br>
+#### <li> 2021.08 Congratulations to Zhongxu Zhu and Wei Wang for their paper recently published in <em>JAMA Network Open</em> and <em>Clinical Cancer Research</em>! </li>
+<br>
+#### <li> 2021.08 New members: Shuai Yi and Ye Zhengqian joined our group as new PhD students in August! </li>
 <br>
 #### <li> 2021.04 Congratulations to Hao Huang for his paper recently published in <em>Nature communications</em>! </li>
 <br><strong>[Paper](https://www.nature.com/articles/s41467-021-22445-0)&nbsp;&nbsp; [News](https://www.cityu.edu.hk/research/stories/2021/04/15/cityu-biologists-discover-super-enhancers-switch-breast-cancer-genes)&nbsp;&nbsp;
 [新闻](https://www.cityu.edu.hk/zh-cn/research/stories/2021/04/15/cityu-biologists-discover-super-enhancers-switch-breast-cancer-genes)&nbsp;&nbsp; [新闻](https://www.ebiotrade.com/newsf/2021-4/20210416005108177.htm)&nbsp;&nbsp;
 [新闻](https://www.bhkaec.org.hk/a/120287-cht).</strong>
 <br>
+#### <li> 2021.03 Congratulations to Miaomiao Tan and Lin Qi for their papers recently published in <em>Cell Reports</em> and <em>ACS Nano</em>! </li>
 <br>
-
+<br>
 ## 2020 
 <br>
 
@@ -46,6 +66,7 @@ banner = "img/banners/2016.jpg"
 #### <li> 2020.01 Our publication "Gene Expression Signature in Surgical Tissues and Endoscopic Biopsies Identifies High-risk T1 Colorectal Cancers" in Gastroenterology was reported in the recent 'Asia Reaseach News' magazine! </li>
 
 <br><strong>[magazine](https://www.asiaresearchnews.com/magazine/2020-0) </strong>
+<br>
 <img src="/img/carousel/mag2.jpg" width= "600" height= "800" alt="server" align="center">
 <br>
 <br>
