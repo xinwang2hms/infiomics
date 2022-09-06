@@ -8,7 +8,7 @@ banner = "img/banners/2016.jpg"
 ## 2022
 <br>
 <br>
-#### <li> 2022.09 New member: Tingting Chen joined our group as a new Postdoctoral research fellow! &#128079 &#128079 &#128079 </li>
+#### <li> 2022.09 New member: Tingting Chen joined our group as a new Postdoctoral research fellow! &#1F44F &#1F44F &#1F44F </li>
 <br>
 #### <li> 2022.08 New members: Li Xiang, Jiang Bei and Yijuan Wang joined our group as new PhD students; Jiang Tao joined as our new research assistant! &#128079 &#128079 &#128079 </li>
 <br>
