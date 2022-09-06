@@ -8,12 +8,11 @@ banner = "img/banners/2016.jpg"
 
 ## 2021 
 <br>
-
 <br>
-#### · 2021.04 Congratulations to Hao Huang for his paper recently published in <em>Nature communications</em>! 
-<li><strong>[Paper](https://www.nature.com/articles/s41467-021-22445-0).  [News](https://www.cityu.edu.hk/research/stories/2021/04/15/cityu-biologists-discover-super-enhancers-switch-breast-cancer-genes).
+#### <li> 2021.04 Congratulations to Hao Huang for his paper recently published in <em>Nature communications</em>! </li>
+<br><strong>[Paper](https://www.nature.com/articles/s41467-021-22445-0).  [News](https://www.cityu.edu.hk/research/stories/2021/04/15/cityu-biologists-discover-super-enhancers-switch-breast-cancer-genes).
 [新闻](https://www.cityu.edu.hk/zh-cn/research/stories/2021/04/15/cityu-biologists-discover-super-enhancers-switch-breast-cancer-genes). [新闻](https://www.ebiotrade.com/newsf/2021-4/20210416005108177.htm). 
-[新闻](https://www.bhkaec.org.hk/a/120287-cht).</strong></li>
+[新闻](https://www.bhkaec.org.hk/a/120287-cht).</strong>
 <br>
 <br>
 
