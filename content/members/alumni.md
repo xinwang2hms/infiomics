@@ -29,20 +29,22 @@ banner = "img/banners/2016.jpg"
 ##### <p align="left">Now: Lecturer at College of Computer Science and Technology, Zhejiang University of Technology, Hangzhou, Zhejiang Province, China
 <br>
 
-#### Ying Li (PhD Student, 2017.09-2020.08)
+#### Ying Li (PhD Student, 2017.09-2021.01)
 ##### <p align="left"><img src="/img/testimonials/liying.jpg" width=250 alt="ying" />
 ##### <p align="left" p style = "margin:0px" p style="line-height:200%">Ying worked on cancer subtyping by linking intra-tumor and inter-tumor heterogeneity.<br>
 ##### <p align="left">Now: Lecturer, College of Information and Computer, Taiyuan University of Technology, Shanxi, China 
 <br>
 
-#### Lina Zhu (PhD Student)
+#### Lina Zhu (PhD Student, 2016.09-2022.02)
 ##### <p align="left"><img src="/img/testimonials/lina.jpg" width=250  alt="brain" align=center />
-##### <p align="left">Lina is working on HTSanalyzeR2 and biomarker development.<br>**Joint PhD Student with Cornell University.**
+##### <p align="left">Lina worked on cancer genomics and bioinformatics, focusing on non-coding RNA regulations.<br>**Joint PhD Student with Cornell University.**
+##### <p align="left">Now: Bioinformatician at Central South University, Changsha, China
 <br>
 
-#### Hao Huang (PhD Student)
+#### Hao Huang (PhD Student, 2017.09-2021.10)
 ##### <p align="left"><img src="/img/testimonials/huanghao_v2.jpg" width=350  alt="brain" align=center />
-##### <p align="left">Hao's research is focused on integrative analysis of ChIP-seq and RNA-seq data to dissect<br>epigenetic regulations in cancer.<br>**Joint PhD Student with Cornell University.**
+##### <p align="left">Hao's research was focused on integrative analysis of ChIP-seq and RNA-seq data to dissect<br>epigenetic regulations in cancer.<br>**Joint PhD Student with Cornell University.**
+##### <p align="left">Now: Associate Professor at Southeast University, Nanjing, China
 <br>
 <br><br><br>
 

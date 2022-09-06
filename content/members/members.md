@@ -6,7 +6,7 @@ categories = ["members"]
 banner = "img/banners/2016.jpg"
 +++
 
-### Dr.Xin Wang 
+### Dr. Xin Wang 
 <p align="center"><img src="/img/testimonials/xw.jpg" alt="brain" />
 <br>
 ##### <p align="center">**Associate Professor, Faculty of Medicine, The Chinese University of Hong Kong**
@@ -14,11 +14,11 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center">**PhD**, Department of Oncology and Cancer Research UK Cambridge Institute, University of Cambridge, <br>Supervisor: [Dr. Florian Markowetz](http://www.markowetzlab.org/). <br><br>**Office**: Department of Surgery, Faculty of Medicine, The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, N.T. <br>**Email**: xinwang@cuhk.edu.hk
 ##### <p align="center">[**Department webpage**](https://www.surgery.cuhk.edu.hk/profile.asp?alias=xwang)
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
-### Postdoc
+### Postdoctoral fellow
 <br>
 #### Kai Song
 ##### <p align="center"><img src="/img/testimonials/songkai.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Pan-GI cancer subtyping by integrative analysis of multi-omics data <br>**Postdoctoral fellow at the Chinese University of Hong Kong **
+##### <p align="center">Pan-GI cancer subtyping by integrative analysis of multi-omics data 
 <br>
 #### Hua Xue
 ##### <p align="center"><img src="/img/testimonials/xuehua.jpg" width=250  alt="Currently not available" align=center />
