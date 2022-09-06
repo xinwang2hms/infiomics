@@ -163,17 +163,18 @@ paginate = 10
 
     logo = "img/logo4.png"
     address = """<p>Room 315, Block 2
-        <br>To Yuen Building
-        <br>31 To Yuen Street
-        <br>City University of Hong Kong
-        <br>Kowloon Tong
+        <br>Rm 124031, 10/F Clinical Sciences Building
+        <br>Prince of Wales Hospital
+        <br>Department of Surgery
+        <br>The Chinese University of Hong Kong
+        <br>Sha Ting
         <br><strong>Hong Kong</strong>
-        <br>Phone:3442 6967
+        <br>Phone:(852)3505 2746
         
       </p>
       """
-    latitude = "22.334923"
-    longitude = "114.173542"
+    latitude = "22.37966"
+    longitude = "114.20097"
 
 #[Permalinks]
    # blog = "/blog/:year/:month/:day/:filename/"
