@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gastroenterology on CityU Wang Lab</title>
+    <link>/categories/gastroenterology/</link>
+    <description>Recent content in Gastroenterology on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/gastroenterology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A MicroRNA Signature Associated With Metastasis of T1 Colorectal Cancers to Lymph Nodes.</title>
+      <link>/blog/1702gas_gao/</link>
+      <pubDate>Thu, 30 Nov 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/1702gas_gao/</guid>
+      <description>Authors Ozawa T†, Kandimalla R†, Gao F†, Nozawa H, Hata K, Nagata H, Okada S, Izumi D, Baba H, Fleshman J, Wang X, Watanabe T, Goel A.
+Gastroenterology 2017 Abstract Keywords Full text could be found here </description>
+    </item>
+    
+    <item>
+      <title>A MicroRNA Signature Associated With Metastasis of T1 Colorectal Cancers to Lymph Nodes.</title>
+      <link>/publications/1702gas_gao/</link>
+      <pubDate>Thu, 30 Nov 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/publications/1702gas_gao/</guid>
+      <description>Author Ozawa T†, Kandimalla R†, Gao F†, Nozawa H, Hata K, Nagata H, Okada S, Izumi D, Baba H, Fleshman J, Wang X, Watanabe T, Goel A.
+Gastroenterology 2017 Abstract Keywords Full txt could be found here </description>
+    </item>
+    
+  </channel>
+</rss>

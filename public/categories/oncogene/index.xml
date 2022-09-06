@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oncogene on CityU Wang Lab</title>
+    <link>/categories/oncogene/</link>
+    <description>Recent content in Oncogene on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Nov 2018 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/oncogene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrative network biology analysis identifies miR-508-3p as the determinant for the mesenchymal identity and a strong prognostic biomarker of ovarian cancer.</title>
+      <link>/blog/1805onco_ww/</link>
+      <pubDate>Mon, 26 Nov 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1805onco_ww/</guid>
+      <description>Authors Oncogene 2018, doi:https://doi.org/10.1038/s41388-018-0577-5
+Abstract Keywords Ovarian Cancer, Network, miR-508-3p, Biomarker, Mesenchymal
+Full text could be found in here </description>
+    </item>
+    
+    <item>
+      <title>A multidimensional network approach reveals microRNAs as determinants of the mesenchymal colorectal cancer subtype.</title>
+      <link>/blog/1604onco_wx/</link>
+      <pubDate>Thu, 17 Nov 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1604onco_wx/</guid>
+      <description>Authors Fessler E, Jansen M, De Sousa E Melo F, Zhao L, Prasetyanti PR, Rodermond H, Kandimalla R, Linnekamp JF, Franitza M, van Hooff SR, de Jong JH, Oppeneer SC, van Noesel CJM, Dekker E, Stassi G, Wang X*, Medema JP*, and Vermeulen L*.
+Oncogene 2016, doi:10.1038/onc.2016.134
+Abstract Full text could be found in here </description>
+    </item>
+    
+    <item>
+      <title>A multidimensional network approach reveals microRNAs as determinants of the mesenchymal colorectal cancer subtype.</title>
+      <link>/publications/1604onco_wx/</link>
+      <pubDate>Thu, 17 Nov 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/publications/1604onco_wx/</guid>
+      <description>Author Fessler E, Jansen M, De Sousa E Melo F, Zhao L, Prasetyanti PR, Rodermond H, Kandimalla R, Linnekamp JF, Franitza M, van Hooff SR, de Jong JH, Oppeneer SC, van Noesel CJM, Dekker E, Stassi G, Wang X*, Medema JP*, and Vermeulen L*.
+Oncogene 2016, doi:10.1038/onc.2016.134
+Abstract Full txt could be found in here </description>
+    </item>
+    
+  </channel>
+</rss>

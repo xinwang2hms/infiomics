@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clinical cancer research on CityU Wang Lab</title>
+    <link>/categories/clinical-cancer-research/</link>
+    <description>Recent content in Clinical cancer research on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Mar 2018 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/clinical-cancer-research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genome-wide discovery and identification of a novel miRNA signature for recurrence prediction in stage II and III colorectal cancer</title>
+      <link>/blog/1803ccr_gao/</link>
+      <pubDate>Thu, 01 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/1803ccr_gao/</guid>
+      <description>Authors Kandimalla R†, Gao F†, Matsuyama T, Ishikawa T, Uetake H, Takahashi N, Yamada Y, Becerra C, Kopetz S, Wang X* and Goel A*.
+Clin Cancer Res 2018 Purpose Experimental Design Results Conclusions Keywords Full text could be found here Image citation</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide discovery and identification of a novel miRNA signature for recurrence prediction in stage II and III colorectal cancer</title>
+      <link>/publications/1803ccr_gao/</link>
+      <pubDate>Thu, 01 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/publications/1803ccr_gao/</guid>
+      <description>Author Kandimalla R†, Gao F†, Matsuyama T, Ishikawa T, Uetake H, Takahashi N, Yamada Y, Becerra C, Kopetz S, Wang X* and Goel A*.
+Clin Cancer Res 2018 Purpose Experimental Design Results Conclusions Keywords Full txt could be found here Image citation</description>
+    </item>
+    
+  </channel>
+</rss>

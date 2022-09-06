@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular Cell  on CityU Wang Lab</title>
+    <link>/categories/molecular-cell/</link>
+    <description>Recent content in Molecular Cell  on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jun 2018 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/molecular-cell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mTORC1 Promotes Metabolic Reprogramming by the Suppression of GSK3-Dependent Foxk1 Phosphorylation.</title>
+      <link>/blog/1804mc_wx/</link>
+      <pubDate>Thu, 07 Jun 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1804mc_wx/</guid>
+      <description>Authors He L, Gomes AP†, Wang X†, Yoon SO, Lee G, Nagiec M, Cho S, Chavez A, Islam T, Yu Y, Asara JM, Kim BY, Blenis J.
+Molecular Cell 2018, doi:https://doi.org/10.1016/j.molcel.2018.04.024
+Abstract Highlights
+ mTORC1 suppresses GSK3-dependent Foxk1 phosphorylation Foxk1 phosphorylation promotes 14-3-3 binding and nuclear exclusion Foxk1 transcriptionally regulates Hif1α expression Foxk1 and Hif1α contribute to mTORC1-regulated metabolic reprogramming  Summary
+Keywords mTOR, Foxk1, Foxk2, Hif1α, GSK3, transcription, phosphorylation, metabolism</description>
+    </item>
+    
+    <item>
+      <title>mTORC1 Promotes Metabolic Reprogramming by the Suppression of GSK3-Dependent Foxk1 Phosphorylation.</title>
+      <link>/publications/1804mc_wx/</link>
+      <pubDate>Thu, 07 Jun 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/publications/1804mc_wx/</guid>
+      <description>Author He L, Gomes AP†, Wang X†, Yoon SO, Lee G, Nagiec M, Cho S, Chavez A, Islam T, Yu Y, Asara JM, Kim BY, Blenis J.
+Molecular Cell 2018, doi:https://doi.org/10.1016/j.molcel.2018.04.024
+Abstract Highlights
+ mTORC1 suppresses GSK3-dependent Foxk1 phosphorylation Foxk1 phosphorylation promotes 14-3-3 binding and nuclear exclusion Foxk1 transcriptionally regulates Hif1α expression Foxk1 and Hif1α contribute to mTORC1-regulated metabolic reprogramming  Summary
+Keywords mTOR, Foxk1, Foxk2, Hif1α, GSK3, transcription, phosphorylation, metabolism</description>
+    </item>
+    
+  </channel>
+</rss>

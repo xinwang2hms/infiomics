@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on CityU Wang Lab</title>
+    <link>/categories/news/</link>
+    <description>Recent content in News on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2011 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News of our lab</title>
+      <link>/news/news/</link>
+      <pubDate>Wed, 10 Aug 2011 13:07:31 +0200</pubDate>
+      
+      <guid>/news/news/</guid>
+      <description>2020 · 2020.09 New members: Li Jiang, Wang Lishi, Wang Xiangeng and Zhang Xianrui joined our group as new PhD students in September! · 2020.05.22 Dr. Wang was invited to give a seminar at Chinese University of Hong Kong! Dr. Wang was invited to give a seminar at the Department of Surgery, Chinese University of Hong Kong. He was appointed as an Adjunct Associate Professor at the department. 2020.01 Our publication &amp;ldquo;Gene Expression Signature in Surgical Tissues and Endoscopic Biopsies Identifies High-risk T1 Colorectal Cancers&amp;rdquo; in Gastroenterology was reported in the recent &amp;lsquo;Asia Reaseach News&amp;rsquo; magazine!</description>
+    </item>
+    
+  </channel>
+</rss>

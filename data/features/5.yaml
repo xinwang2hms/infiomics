@@ -1,0 +1,4 @@
+weight: 5
+name: "Therapeutic targets"
+icon: "fa fa-stethoscope"
+description: "<strong>Identifying potential <u>**therapeutic targets**</u> using network-based approaches.</strong>"

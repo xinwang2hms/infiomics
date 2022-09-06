@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semin Cancer Biol on CityU Wang Lab</title>
+    <link>/categories/semin-cancer-biol/</link>
+    <description>Recent content in Semin Cancer Biol on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 May 2018 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/semin-cancer-biol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Molecular subtyping of colorectal cancer: recent progress, new challenges and emerging opportunities.</title>
+      <link>/blog/1802scb_ww/</link>
+      <pubDate>Thu, 17 May 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1802scb_ww/</guid>
+      <description>Authors Wang W†, Kandimalla R†, Huang H†, Zhu L, Li Y, Gao F, Goel A*,**Wang X***
+Seminars in Cancer Biology 2018, doi:10.1016/j.semcancer.2018.05.002
+Abstract Keywords Colorectal cancer; Heterogeneity; Molecular subtyping; Personalized medicine
+Full text could be found in here </description>
+    </item>
+    
+    <item>
+      <title>Molecular subtyping of colorectal cancer: recent progress, new challenges and emerging opportunities.</title>
+      <link>/publications/1802scb_ww/</link>
+      <pubDate>Thu, 17 May 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/publications/1802scb_ww/</guid>
+      <description>Author Wang W†, Kandimalla R†, Huang H†, Zhu L, Li Y, Gao F, Goel A*,**Wang X***
+Seminars in Cancer Biology 2018, doi:10.1016/j.semcancer.2018.05.002
+Abstract Keywords Colorectal cancer; Heterogeneity; Molecular subtyping; Personalized medicine
+Full txt could be found in here </description>
+    </item>
+    
+  </channel>
+</rss>

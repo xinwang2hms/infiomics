@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annals of Surgery on CityU Wang Lab</title>
+    <link>/categories/annals-of-surgery/</link>
+    <description>Recent content in Annals of Surgery on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Sep 2017 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/annals-of-surgery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genome-wide Discovery of a Novel Gene-expression Signature for the Identification of Lymph Node Metastasis in Esophageal Squamous Cell Carcinoma.</title>
+      <link>/blog/1703ann_gao/</link>
+      <pubDate>Sun, 10 Sep 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1703ann_gao/</guid>
+      <description>Authors Fuminori Sonohara; Feng Gao; Naoki Iwata; Mitsuro Kanda; Masahiko Koike; Naoki Takahashi; Yasuhide Yamada; Yasuhiro Kodera; Wang X*; Ajay Goel
+Annals of Surgery 2017, doi:10.1097/SLA.0000000000002622
+Objective Summary of Background Data Methods Results Conclusion Full text could be found in here Image citation</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide Discovery of a Novel Gene-expression Signature for the Identification of Lymph Node Metastasis in Esophageal Squamous Cell Carcinoma.</title>
+      <link>/publications/1703ann_gao/</link>
+      <pubDate>Sun, 10 Sep 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/publications/1703ann_gao/</guid>
+      <description>Author Fuminori Sonohara; Feng Gao; Naoki Iwata; Mitsuro Kanda; Masahiko Koike; Naoki Takahashi; Yasuhide Yamada; Yasuhiro Kodera; Wang X*; Ajay Goel
+Annals of Surgery 2017, doi:10.1097/SLA.0000000000002622
+Objective Summary of Background Data Methods Results Conclusion Full txt could be found in here Image citation</description>
+    </item>
+    
+  </channel>
+</rss>

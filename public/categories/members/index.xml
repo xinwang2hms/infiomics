@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>members on CityU Wang Lab</title>
+    <link>/categories/members/</link>
+    <description>Recent content in members on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2011 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/members/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Members of our lab</title>
+      <link>/members/alumni/</link>
+      <pubDate>Wed, 10 Aug 2011 13:07:31 +0200</pubDate>
+      
+      <guid>/members/alumni/</guid>
+      <description>Feng Gao (PhD Student, 2015.09-2018.08)  Feng mainly focused on applying artificial intelligence techniques such as deep learning to cancer research,including but not limited to patient stratification, biomarker and target discovery.Linkedin: https://hk.linkedin.com/in/feng-gao-3b7bb33a Feng was jointly supervised with Prof. Andrew Yen at Cornell University Now: Associate Professor at Sun Yat-sen University, Guangzhou, China Xin Duan (Research Assistant, 2015.09-2017.12)  Xin DUAN worked on drug screening by analyzing brain activity maps of zebrafish models.</description>
+    </item>
+    
+    <item>
+      <title>Members of our lab</title>
+      <link>/members/members/</link>
+      <pubDate>Wed, 10 Aug 2011 13:07:31 +0200</pubDate>
+      
+      <guid>/members/members/</guid>
+      <description>Dr.Xin Wang </description>
+    </item>
+    
+  </channel>
+</rss>

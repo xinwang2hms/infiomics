@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genes Dev on CityU Wang Lab</title>
+    <link>/categories/genes-dev/</link>
+    <description>Recent content in Genes Dev on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jan 2016 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/genes-dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The oncogenic BRD4-NUT chromatin regulator drives aberrant transcription within large topological domains</title>
+      <link>/blog/1601gd_wx/</link>
+      <pubDate>Mon, 11 Jan 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1601gd_wx/</guid>
+      <description>Authors Alekseyenko AA†, Walsh EM†, Wang X†, Grayson AR, Hsi PT, Kharchenko PV, Kuroda MI, and French CA
+Genes Dev 2015, doi:10.1101/gad.267583.115.
+Abstract Keyword BRD4; chromatin hyperacetylation; topological domains
+Full text could be found in here </description>
+    </item>
+    
+    <item>
+      <title>The oncogenic BRD4-NUT chromatin regulator drives aberrant transcription within large topological domains</title>
+      <link>/publications/1601gd_wx/</link>
+      <pubDate>Mon, 11 Jan 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/publications/1601gd_wx/</guid>
+      <description>Author Alekseyenko AA†, Walsh EM†, Wang X†, Grayson AR, Hsi PT, Kharchenko PV, Kuroda MI, and French CA
+Genes Dev 2015, doi:10.1101/gad.267583.115.
+Abstract Keyword BRD4; chromatin hyperacetylation; topological domains
+Full txt could be found in here </description>
+    </item>
+    
+  </channel>
+</rss>

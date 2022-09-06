@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2016 on CityU Wang Lab</title>
+    <link>/categories/2016/</link>
+    <description>Recent content in 2016 on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2016 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/2016/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Papers in 2015 to 2016-09</title>
+      <link>/blog/selected-publications/</link>
+      <pubDate>Wed, 10 Aug 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/selected-publications/</guid>
+      <description>Fessler E, Jansen M, De Sousa E Melo F, Zhao L, Prasetyanti PR, Rodermond H, Kandimalla R, Linnekamp JF, Franitza M, van Hooff SR, de Jong JH, Oppeneer SC, van Noesel CJM, Dekker E, Stassi G, Wang X, Medema JP, and Vermeulen L, A multidimensional network approach reveals microRNAs as determinants of the mesenchymal colorectal cancer subtype, Oncogene 2016, doi: 10.1038/onc.2016.134 (co-corresponding author)
+ Masuda T, Wang X, Maeda M, Canver MC, Sher F, Funnell APW, Fisher C, Suciu M, Martyn GE, Norton LJ, Zhu C, Kurita R, Nakamura Y, Xu J, Higgs DR, Crossley M, Bauer DE, Orkin SH, Kharchenko PV, Maeda T, Transcription factors LRF and BCL11A independently repress expression of fetal hemoglobin, Science 2016, 351(6270):285-289</description>
+    </item>
+    
+  </channel>
+</rss>

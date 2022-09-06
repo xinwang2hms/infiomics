@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All on CityU Wang Lab</title>
+    <link>/tags/all/</link>
+    <description>Recent content in All on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2112 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/all/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications List</title>
+      <link>/publications/1208all/</link>
+      <pubDate>Wed, 10 Aug 2112 13:07:31 +0200</pubDate>
+      
+      <guid>/publications/1208all/</guid>
+      <description>Google scholar of Dr. Xin Wang List Image citation</description>
+    </item>
+    
+    <item>
+      <title>Publications List</title>
+      <link>/blog/1208all/</link>
+      <pubDate>Wed, 10 Aug 2011 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1208all/</guid>
+      <description>Google Citation Profile 2020 2019 </description>
+    </item>
+    
+  </channel>
+</rss>

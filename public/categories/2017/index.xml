@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 on CityU Wang Lab</title>
+    <link>/categories/2017/</link>
+    <description>Recent content in 2017 on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Aug 2017 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Papers in 2016-09 to 2017-09</title>
+      <link>/blog/2017/</link>
+      <pubDate>Thu, 10 Aug 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/2017/</guid>
+      <description>Ozawa T†, Kandimalla R†, Gao F†, Nozawa H, Hata K, Nagata H, Okada S, Izumi D, Baba H, Fleshman J, Wang X, Watanabe T, Goel A, A microRNA Signature Associated With Metastasis of T1 Colorectal Tumors to Lymph Nodes, Gastroenterology 2017, doi: 10.1053/j.gastro.2017.11.275
+ Wang Y, Lin X, Chen X, Chen X, Xu Z, Zhang W, Liao Q, Duan X, Wang X, Liu M, Wang F, He J &amp;amp; Shi P, Tetherless near-infrared control of brain activity in behaving animals using fully implantable upconversion microdevices, Biomaterials 2017, 142, 136-148, doi: 10.</description>
+    </item>
+    
+  </channel>
+</rss>

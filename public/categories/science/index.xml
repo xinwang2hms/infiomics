@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on CityU Wang Lab</title>
+    <link>/categories/science/</link>
+    <description>Recent content in Science on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jan 2016 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Transcription factors LRF and BCL11A independently repress expression of fetal hemoglobin.</title>
+      <link>/blog/1603sci_wx/</link>
+      <pubDate>Fri, 15 Jan 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1603sci_wx/</guid>
+      <description>Authors Masuda T, Wang X, Maeda M, Canver MC, Sher F, Funnell APW, Fisher C, Suciu M, Martyn GE, Norton LJ, Zhu C, Kurita R, Nakamura Y, Xu J, Higgs DR, Crossley M, Bauer DE, Orkin SH, Kharchenko PV, Maeda T
+Science 2016, doi:10.1126/science.aad3312.
+Abstract Full text could be found in here </description>
+    </item>
+    
+    <item>
+      <title>Transcription factors LRF and BCL11A independently repress expression of fetal hemoglobin.</title>
+      <link>/publications/1603sci_wx/</link>
+      <pubDate>Fri, 15 Jan 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/publications/1603sci_wx/</guid>
+      <description>Author Masuda T, Wang X, Maeda M, Canver MC, Sher F, Funnell APW, Fisher C, Suciu M, Martyn GE, Norton LJ, Zhu C, Kurita R, Nakamura Y, Xu J, Higgs DR, Crossley M, Bauer DE, Orkin SH, Kharchenko PV, Maeda T
+**Science ** 2016, doi:10.1126/science.aad3312.
+Abstract Full txt could be found in here </description>
+    </item>
+    
+  </channel>
+</rss>

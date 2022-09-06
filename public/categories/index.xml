@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on CityU Wang Lab</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2112 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All</title>
+      <link>/categories/all/</link>
+      <pubDate>Wed, 10 Aug 2112 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oncogene</title>
+      <link>/categories/oncogene/</link>
+      <pubDate>Mon, 26 Nov 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/oncogene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature Communication</title>
+      <link>/categories/nature-communication/</link>
+      <pubDate>Sat, 03 Nov 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/nature-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular Cell </title>
+      <link>/categories/molecular-cell/</link>
+      <pubDate>Thu, 07 Jun 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/molecular-cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semin Cancer Biol</title>
+      <link>/categories/semin-cancer-biol/</link>
+      <pubDate>Thu, 17 May 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/semin-cancer-biol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical cancer research</title>
+      <link>/categories/clinical-cancer-research/</link>
+      <pubDate>Thu, 01 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/clinical-cancer-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome Biology</title>
+      <link>/categories/genome-biology/</link>
+      <pubDate>Mon, 22 Jan 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/genome-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomaterials</title>
+      <link>/categories/biomaterials/</link>
+      <pubDate>Mon, 11 Dec 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/biomaterials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gastroenterology</title>
+      <link>/categories/gastroenterology/</link>
+      <pubDate>Thu, 30 Nov 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/gastroenterology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell Death and Differentiation</title>
+      <link>/categories/cell-death-and-differentiation/</link>
+      <pubDate>Mon, 09 Oct 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/cell-death-and-differentiation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annals of Surgery</title>
+      <link>/categories/annals-of-surgery/</link>
+      <pubDate>Sun, 10 Sep 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/annals-of-surgery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature Medicine</title>
+      <link>/categories/nature-medicine/</link>
+      <pubDate>Sun, 13 Mar 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/nature-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>/categories/science/</link>
+      <pubDate>Fri, 15 Jan 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genes Dev</title>
+      <link>/categories/genes-dev/</link>
+      <pubDate>Mon, 11 Jan 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/genes-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>members</title>
+      <link>/categories/members/</link>
+      <pubDate>Wed, 10 Aug 2011 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/members/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/categories/news/</link>
+      <pubDate>Wed, 10 Aug 2011 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
