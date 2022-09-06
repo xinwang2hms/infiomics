@@ -14,7 +14,7 @@ banner = "img/banners/2016.jpg"
 <br>
 #### <li> 2022.07 Congratulations to Zhongxu and Miaomiao for their papers recently published in <em>Gastroenteroloy</em> and <em>Cell Death & Disease</em>! :tada: :gift: :balloon:  </li>
 <br>
-#### <li> 2022.06 Our invited review paper was published in <em>Trends in Genetics</em>! Congratulations and Tan and Hao! :tada: :gift: :balloon:  </li>
+#### <li> 2022.06 Our invited review paper was published in <em>Trends in Genetics</em>! Congratulations to Tan and Hao! :tada: :gift: :balloon:  </li>
 <br>
 #### <li> 2022.03 Congratulations to Zhongxu Zhu for his paper recently published in <em>Molecular Cancer</em>! :tada: :gift: :balloon:  </li>
 <br>
