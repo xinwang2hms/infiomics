@@ -8,6 +8,11 @@ banner = "img/banners/2016.jpg"
 ## 2022
 <br>
 <br>
+#### <li> 2022.09.07 Dr. Wang was invited to give a talk at The Annual Meeting of the International Conference on Genomics (ICG-17)! </li>
+#### Dr. Wang gave a talk about "AI-empowered histology image-based spatial characterizations of tumor microenvironment for cancer diagnosis, prognosis and molecular subtyping". [Webcast](https://icg.bio/liveconference/index.aspx?lcid=48)
+<img src="/img/news/ICG17.JPG" width= "800" alt="server" align="center">
+<br>
+<br>
 #### <li> 2022.09 New member: Tingting Chen joined our group as a new Postdoctoral fellow! :clap: :clap: :clap: </li>
 <br>
 #### <li> 2022.08 New members: Li Xiang, Jiang Bei and Yijuan Wang joined our group as new PhD students; Jiang Tao joined as our new research assistant! :clap: :clap: :clap: </li>
