@@ -10,21 +10,17 @@ banner = "img/banners/2016.jpg"
 <br>
 #### <li> 2022.09 New member: Tingting Chen joined our group as a new Postdoctoral fellow! :clap: :clap: :clap: </li>
 <br>
-#### <li> 2022.08 New members: Li Xiang, Jiang Bei and Yijuan Wang joined our group as new PhD students; Jiang Tao joined as our new research assistant! &#128079 &#128079 &#128079 </li>
+#### <li> 2022.08 New members: Li Xiang, Jiang Bei and Yijuan Wang joined our group as new PhD students; Jiang Tao joined as our new research assistant! :clap: :clap: :clap: </li>
 <br>
-#### <li> 2022.07 Congratulations to Zhongxu and Miaomiao for their papers recently published in <em>Gastroenteroloy</em> and <em>Cell Death & Disease</em>! &#127880 &#127881 &#127870 </li>
+#### <li> 2022.07 Congratulations to Zhongxu and Miaomiao for their papers recently published in <em>Gastroenteroloy</em> and <em>Cell Death & Disease</em>! :tada: :gift: :balloon: </li>
 <br>
-<<<<<<< HEAD
-#### <li> 2022.06 Our invited review paper was published in <em>Trends in Genetics</em>! Congratulations and Tan and Hao! &#127880 &#127881 &#127870 </li>
-=======
 #### <li> 2022.06 Our invited review paper was published in <em>Trends in Genetics</em>! Congratulations and Tan and Hao! :tada: :gift: :balloon:  </li>
->>>>>>> parent of 8d95fb1 (Update news.md)
 <br>
-#### <li> 2022.03 Congratulations to Zhongxu Zhu for his paper recently published in <em>Molecular Cancer</em>! &#127880 &#127881 &#127870 </li>
+#### <li> 2022.03 Congratulations to Zhongxu Zhu for his paper recently published in <em>Molecular Cancer</em>! :tada: :gift: :balloon: </li>
 <br>
-#### <li> 2022.02 New member: Kai Song joined our group as a new Postdoctoral fellow! &#128079 &#128079 &#128079 </li>
+#### <li> 2022.02 New member: Kai Song joined our group as a new Postdoctoral fellow! :clap: :clap: :clap: </li>
 <br>
-#### <li> 2022.01 New member: Hua Xue joined our group as a new Postdoctoral fellow! &#128079 &#128079 &#128079 </li>
+#### <li> 2022.01 New member: Hua Xue joined our group as a new Postdoctoral fellow! :clap: :clap: :clap: </li>
 <br>
 <br>
 
@@ -32,30 +28,30 @@ banner = "img/banners/2016.jpg"
 <br>
 #### <li> 2021.11 Dr. Wang started his new career in the Chinese University of Hong Kong Faculty of Medicine! </li>
 <br>
-#### <li> 2021.09 Congratulations to Yu Chen, Tan Wu, and Zhongxu Zhu for their paper recently published in <em>Seminars in Cancer Biology</em>! &#127880 &#127881 &#127870 </li>
+#### <li> 2021.09 Congratulations to Yu Chen, Tan Wu, and Zhongxu Zhu for their paper recently published in <em>Seminars in Cancer Biology</em>! :tada: :gift: :balloon: </li>
 <br>
-#### <li> 2021.09 New member: Chen Tianhang joined our group as a new PhD student in September! &#128079 &#128079 &#128079 </li>
+#### <li> 2021.09 New member: Chen Tianhang joined our group as a new PhD student in September! :clap: :clap: :clap: </li>
 <br>
-#### <li> 2021.08 Congratulations to Zhongxu Zhu and Wei Wang for their paper recently published in <em>JAMA Network Open</em> and <em>Clinical Cancer Research</em>! &#127880 &#127881 &#127870 </li>
+#### <li> 2021.08 Congratulations to Zhongxu Zhu and Wei Wang for their paper recently published in <em>JAMA Network Open</em> and <em>Clinical Cancer Research</em>! :tada: :gift: :balloon: </li>
 <br>
-#### <li> 2021.08 New members: Shuai Yi and Ye Zhengqian joined our group as new PhD students in August! &#128079 &#128079 &#128079 </li>
+#### <li> 2021.08 New members: Shuai Yi and Ye Zhengqian joined our group as new PhD students in August! :clap: :clap: :clap: </li>
 <br>
-#### <li> 2021.04 Congratulations to Hao Huang for his paper recently published in <em>Nature communications</em>! &#127880 &#127881 &#127870 </li>
+#### <li> 2021.04 Congratulations to Hao Huang for his paper recently published in <em>Nature communications</em>! :tada: :gift: :balloon: </li>
 <br><strong>[Paper](https://www.nature.com/articles/s41467-021-22445-0)&nbsp;&nbsp; [News](https://www.cityu.edu.hk/research/stories/2021/04/15/cityu-biologists-discover-super-enhancers-switch-breast-cancer-genes)&nbsp;&nbsp;
 [新闻](https://www.cityu.edu.hk/zh-cn/research/stories/2021/04/15/cityu-biologists-discover-super-enhancers-switch-breast-cancer-genes)&nbsp;&nbsp; [新闻](https://www.ebiotrade.com/newsf/2021-4/20210416005108177.htm)&nbsp;&nbsp;
 [新闻](https://www.bhkaec.org.hk/a/120287-cht).</strong>
 <br>
-#### <li> 2021.03 Congratulations to Miaomiao Tan and Lin Qi for their papers recently published in <em>Cell Reports</em> and <em>ACS Nano</em>! &#127880 &#127881 &#127870 </li>
+#### <li> 2021.03 Congratulations to Miaomiao Tan and Lin Qi for their papers recently published in <em>Cell Reports</em> and <em>ACS Nano</em>! :tada: :gift: :balloon: </li>
 <br>
 <br>
 ## 2020 
 <br>
 
-#### <li> 2020.09 New members: Li Jiang, Wang Lishi, Wang Xiangeng and Zhang Xianrui joined our group as new PhD students in September! &#127880 &#127881 &#127870 </li>
+#### <li> 2020.09 New members: Li Jiang, Wang Lishi, Wang Xiangeng and Zhang Xianrui joined our group as new PhD students in September! :tada: :gift: :balloon: </li>
 
 <br>
 <br>
-#### <li> 2020.06 Congratulations to Lin Qi for his paper recently published in <em>Science Advances</em>! &#127880 &#127881 &#127870 </li>
+#### <li> 2020.06 Congratulations to Lin Qi for his paper recently published in <em>Science Advances</em>! :tada: :gift: :balloon: </li>
 <br><strong>[Paper](https://advances.sciencemag.org/content/6/24/eaba4971)&nbsp;&nbsp;  [News](https://www.cityu.edu.hk/research/stories/2020/06/11/intracellular-biopsy-technique-fast-micrornas-profiling-living-cells)&nbsp;&nbsp;
 [News](https://scienmag.com/intracellular-biopsy-technique-for-fast-micrornas-profiling-in-living-cells/)&nbsp;&nbsp; [新闻](https://www.cityu.edu.hk/zh-hk/research/stories/2020/06/11/intracellular-biopsy-technique-fast-micrornas-profiling-living-cells)&nbsp;&nbsp; </strong>
 <br>
@@ -75,7 +71,7 @@ banner = "img/banners/2016.jpg"
 <br>
 <br>
 
-#### <li> 2020.01 Our publication "Gene Expression Signature in Surgical Tissues and Endoscopic Biopsies Identifies High-risk T1 Colorectal Cancers" in Gastroenterology was reported in the recent 'Asia Reaseach News' magazine! &#127880 &#127881 &#127870 </li>
+#### <li> 2020.01 Our publication "Gene Expression Signature in Surgical Tissues and Endoscopic Biopsies Identifies High-risk T1 Colorectal Cancers" in Gastroenterology was reported in the recent 'Asia Reaseach News' magazine! :tada: :gift: :balloon: </li>
 
 <br><strong>[magazine](https://www.asiaresearchnews.com/magazine/2020-0) </strong>
 <br>
@@ -92,7 +88,7 @@ banner = "img/banners/2016.jpg"
 <br>
 <br>
 
-#### <li> 2019.09 New members: Rayna joined our group as a joint PhD student in June! Han Guiyuan, He Linli, Lai Yuni and Wu Tan joined our group as new PhD students in September! &#127880 &#127881 &#127870 </li>
+#### <li> 2019.09 New members: Rayna joined our group as a joint PhD student in June! Han Guiyuan, He Linli, Lai Yuni and Wu Tan joined our group as new PhD students in September! :tada: :gift: :balloon: </li>
 
 <br>
 <br>
@@ -110,7 +106,7 @@ banner = "img/banners/2016.jpg"
 <br>
 <br>
 
-#### <li> 2019.07 Congratulations to Huang Hao for his paper recently published in <em>Nature Communications</em>! &#127880 &#127881 &#127870 </li>
+#### <li> 2019.07 Congratulations to Huang Hao for his paper recently published in <em>Nature Communications</em>! :tada: :gift: :balloon: </li>
 
 <br><strong>[Paper](https://www.nature.com/articles/s41467-019-10778-w).  [News](https://mp.weixin.qq.com/s/B8UTzOlKA3u9OqVOhWWaFA) </strong>
 <br>
@@ -128,7 +124,7 @@ banner = "img/banners/2016.jpg"
 <br>
 <br>
 
-#### <li> 2019.03 Congratulations to Gao Feng for his paper recently published in Gastroenterology! &#127880 &#127881 &#127870 </li>
+#### <li> 2019.03 Congratulations to Gao Feng for his paper recently published in Gastroenterology! :tada: :gift: :balloon: </li>
 
 <br><strong>[Paper](https://www.gastrojournal.org/article/S0016-5085(19)30436-6/abstract).  [News](http://www.cityu.edu.hk/vprt/news/2019/a-biomarker-for-categorizing-colorectal-cancer-patients/) </strong>
 
@@ -136,7 +132,7 @@ banner = "img/banners/2016.jpg"
 <br>
 <br>
 
-#### <li> 2019.03 Congratulations to Duan Xin for his paper recently published and highlighted in <em>Nature Communications</em>! &#127880 &#127881 &#127870 </li>
+#### <li> 2019.03 Congratulations to Duan Xin for his paper recently published and highlighted in <em>Nature Communications</em>! :tada: :gift: :balloon: </li>
 
 <br><strong>[Paper](https://www.nature.com/articles/s41467-018-07289-5).  [News](https://newscentre.cityu.edu.hk/media/news/2019/03/18/neuromedicine-breakthrough-harvard-university) </strong></li> 
 
@@ -149,11 +145,11 @@ banner = "img/banners/2016.jpg"
 
 ## 2018 
 <br>
-#### <li> 2018.12 Feng Gao became the first graduate of Joint PhD Program with Cornell University! Congratulate Feng and wish him a bright future. &#127880 &#127881 &#127870 </li>
+#### <li> 2018.12 Feng Gao became the first graduate of Joint PhD Program with Cornell University! Congratulate Feng and wish him a bright future. :tada: :gift: :balloon: </li>
 <img src="/img/carousel/feng2.jpg" width= "800" alt="server" align="center">
 <br>
 <br>
-#### <li> 2018.09 New members: Lin and Miaomiao joined our group as new PhD students in September! Yi joined our group as a new PhD student in November! &#127880 &#127881 &#127870 </li>
+#### <li> 2018.09 New members: Lin and Miaomiao joined our group as new PhD students in September! Yi joined our group as a new PhD student in November! :tada: :gift: :balloon: </li>
 <br>
 #### <li> 2018.07 Lin gave a presentation in the Biological information and biomedical engineering conference. </li>
 <img src="/img/carousel/bibe2.jpg" width= "700" alt="server" align="center">
@@ -171,7 +167,7 @@ banner = "img/banners/2016.jpg"
 <img src="/img/carousel/yk2.jpg" width= "800" alt="server" align="center">
 <br>
 <br>
-#### <li> 2017.09 New members: Hao and Ying joined our group as new PhD students in September! Lin joined our group as a RA in October. &#127880 &#127881 &#127870  </li>
+#### <li> 2017.09 New members: Hao and Ying joined our group as new PhD students in September! Lin joined our group as a RA in October. :clap: :clap: :clap:  </li>
 <br>
 **------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 <br><br>
