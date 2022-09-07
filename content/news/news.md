@@ -8,7 +8,7 @@ banner = "img/banners/2016.jpg"
 ## 2022
 <br>
 <br>
-#### <li> 2022.09 New member: Tingting Chen joined our group as a new Postdoctoral research fellow! :clap: :clap: :clap: </li>
+#### <li> 2022.09 New member: Tingting Chen joined our group as a new Postdoctoral fellow! :clap: :clap: :clap: </li>
 <br>
 #### <li> 2022.08 New members: Li Xiang, Jiang Bei and Yijuan Wang joined our group as new PhD students; Jiang Tao joined as our new research assistant! &#128079 &#128079 &#128079 </li>
 <br>
@@ -18,9 +18,9 @@ banner = "img/banners/2016.jpg"
 <br>
 #### <li> 2022.03 Congratulations to Zhongxu Zhu for his paper recently published in <em>Molecular Cancer</em>! &#127880 &#127881 &#127870 </li>
 <br>
-#### <li> 2022.02 New member: Kai Song joined our group as a new Postdoctoral research fellow! &#128079 &#128079 &#128079 </li>
+#### <li> 2022.02 New member: Kai Song joined our group as a new Postdoctoral fellow! &#128079 &#128079 &#128079 </li>
 <br>
-#### <li> 2022.01 New member: Hua Xue joined our group as a new Postdoctoral research fellow! &#128079 &#128079 &#128079 </li>
+#### <li> 2022.01 New member: Hua Xue joined our group as a new Postdoctoral fellow! &#128079 &#128079 &#128079 </li>
 <br>
 <br>
 
