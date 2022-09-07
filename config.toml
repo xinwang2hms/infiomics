@@ -163,8 +163,7 @@ paginate = 10
     date_format = "May 25, 2018"
 
     logo = "img/logo4.png"
-    address = """<p>Room 315, Block 2
-        <br>Rm 124031, 10/F Clinical Sciences Building
+    address = """<p>Rm 124031, 10/F Clinical Sciences Building
         <br>Prince of Wales Hospital
         <br>Department of Surgery
         <br>The Chinese University of Hong Kong
