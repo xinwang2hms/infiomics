@@ -156,8 +156,8 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     #email = "xin.wang@cityu.edu.hk"
 
-    about_us = "<p>The homepage of Prof. XinWang's Lab in department of Biomedical Science of City University HongKong.</p>"
-    copyright = "Copyright (c) 2018 - 2022, Lin Qi of Prof.Xin Wang's Lab. All rights reserved."
+    about_us = "<p>The homepage of Prof. XinWang's Lab in The Chinese University of Hong Kong.</p>"
+    copyright = "Copyright (c) 2018 - 2022, Prof.Xin Wang's Lab. All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "May 25, 2018"
