@@ -9,6 +9,7 @@ banner = "img/banners/2016.jpg"
 <br>
 <br>
 #### <li> 2022.09.07 Dr. Wang was invited to give a talk at The Annual Meeting of the International Conference on Genomics (ICG-17)! </li>
+<br>
 #### Dr. Wang gave a talk about "AI-empowered histology image-based spatial characterizations of tumor microenvironment for cancer diagnosis, prognosis and molecular subtyping". [Webcast](https://icg.bio/liveconference/index.aspx?lcid=48)
 <img src="/img/news/ICG17.JPG" width= "800" alt="server" align="center">
 <br>
@@ -16,6 +17,11 @@ banner = "img/banners/2016.jpg"
 #### <li> 2022.09 New member: Tingting Chen joined our group as a new Postdoctoral fellow! :clap: :clap: :clap: </li>
 <br>
 #### <li> 2022.08 New members: Li Xiang, Jiang Bei and Yijuan Wang joined our group as new PhD students; Jiang Tao joined as our new research assistant! :clap: :clap: :clap: </li>
+<br>
+#### <li> 2022.07.01 Dr. Wang was invited to give a talk at The Second Annual Meeting of Chinese Oncology Gastroenterology (第二届中国肿瘤胃肠病学年会)! </li>
+#### Dr. Wang gave a talk about "Development of peripheral blood microRNA biomarkers for the early detection of GI cancers". 
+<img src="/img/news/GIEarlyScreening2022.jpg" width= "800" alt="server" align="center">
+<br>
 <br>
 #### <li> 2022.07 Congratulations to Zhongxu and Miaomiao for their papers recently published in <em>Gastroenteroloy</em> and <em>Cell Death & Disease</em>! :tada: :gift: :balloon: </li>
 <br>
@@ -31,7 +37,15 @@ banner = "img/banners/2016.jpg"
 
 ## 2021 
 <br>
+#### <li> 2022.07.01 Dr. Wang was invited to give a talk at The 14th International Gastric Cancer Westlake Summit (第十四届国际胃癌西湖峰会)! </li>
+#### Dr. Wang gave a talk about "A miRNA-based Liquid Biopsy Assay for Early Detection of Gastric Cancer". 
+<img src="/img/news/Westlake2021.jpg" width= "800" alt="server" align="center">
+<br>
+<br>
 #### <li> 2021.11 Dr. Wang started his new career in the Chinese University of Hong Kong Faculty of Medicine! </li>
+<br>
+#### Dr. Wang gave a talk about "Leveraging data integration for cancer classification and biomarker identification" at The Annual Meeting of the International Conference on Genomics (ICG-16).
+<br>
 <br>
 #### <li> 2021.09 Congratulations to Yu Chen, Tan Wu, and Zhongxu Zhu for their paper recently published in <em>Seminars in Cancer Biology</em>! :tada: :gift: :balloon: </li>
 <br>
