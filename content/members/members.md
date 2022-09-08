@@ -25,7 +25,7 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center">Development of deep learning and machine leaning models for drug response prediction 
 <br>
 #### Tingting Chen
-##### <p align="center"><img src="/img/testimonials/tingtingchen.jpg" width=250  alt="Currently not available" align=center />
+##### <p align="center"><img src="/img/testimonials/tingtingchenb.jpg" width=250  alt="Currently not available" align=center />
 ##### <p align="center">Dissecting intra-tumor heterogeneity and evolution based on integrative analysis of multiomics data 
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ### PhD Students
