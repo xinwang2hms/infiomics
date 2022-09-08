@@ -4,9 +4,9 @@ id = "contact"
 +++
 
 ## Openings
-<br>
+
 #### <p align="justify">We always look for prospective PhD students with interests in cancer genomics, bioinformatics, computational oncology/pathology/biology. 
-<br>
+
 #### <p align="justify">Candidates with academic background in <u>**computer science**</u>, <u>**bioinformatics**</u>, <u>**computational biology**</u>, <u>**artificial intelligence**</u>, <u>**pattern recognition**</u>, as well as other <u>**related disciplines**</u> are especially welcomed and encouraged to contact **Prof. Xin Wang** (***xinwang@cuhk.edu.hk***). 
 <br>
 ## PhD Studentships
@@ -20,4 +20,4 @@ id = "contact"
 #### <p align="justify"> <li> Application Deadline: Dec 1, 2022 </li>
 #### <p align="justify"> <li> Application Process: Check [here] (https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs) for more information. </li>
 <br>
-## **Please feel free to contact us**
+## **Our Lab location**
