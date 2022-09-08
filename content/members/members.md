@@ -92,15 +92,15 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center">Structural biology and drug screening <br>**Research Assistant, M.S in Plant Pathology.**
 <br>
 #### Xiang Li
-##### <p align="center"><img src="/img/testimonials/xiangli.jpg" width=250  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/xiangli.jpg" width=300  alt="brain" align=center />
 ##### <p align="center">Cancer biomarker development <br>**PhD student, Master of Surgery.**
 <br>
 #### Bei Jiang
-##### <p align="center"><img src="/img/testimonials/beijiang.jpg" width=250  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/beijiang.jpg" width=300  alt="brain" align=center />
 ##### <p align="center">Cancer proteomics and immunology <br>**PhD student, M.S in Molecular Biology and Biochemistry.**
 <br>
 #### Yijuan Wang
-##### <p align="center"><img src="/img/testimonials/yijuanwang.jpg" width=250  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/yijuanwang.jpg" width=300  alt="brain" align=center />
 ##### <p align="center">Network and systems biology <br>**PhD student, M.S in Bioinformatics.**
 <br>
 <br><br><br>
