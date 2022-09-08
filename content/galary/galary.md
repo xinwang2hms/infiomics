@@ -34,19 +34,6 @@ keywords = ["Gallery","Photo","Lab","Gathering"]
 
 ## 2020
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
-### **Greater Bay Area Workshop**
-#### 2020.07. We co-organized The 3rd Guangdong-Hong Kong-Macao Greater Bay Area Workshop on Big Data and Intelligent Applications in Gastrointestinal Diseases (第三届消化系统疾病大数据智能应用研讨会).
-
-<br>
-<img src="/img/galary/202012workshop.jpg" width= "800" alt="server" align="center">
-<br><br>
-
-### **AI and the Future of Healthcare Workshop**
-#### 2020.09.23 Dr. Wang was invited to give a talk about "Leveraging big data, machine learning and artificial intelligence to facilitate cancer classification" in the AI and the Future of Healthcare Workshop by Hong Kong Computer Society!
-
-<br>
-<img src="/img/galary/HKCS-AISG-Webinar_23-September-2020.jpg" width= "800" alt="server" align="center">
-<br><br>
 
 ### **Teachers' Day**
 #### 2020.09.10 Happy Teachers' day!
@@ -56,19 +43,7 @@ keywords = ["Gallery","Photo","Lab","Gathering"]
 <img src="/img/galary/giftv2.jpg" width= "800" alt="server" align="center">
 <br><br>
 
-### **Greater Bay Area Workshop**
-#### 2020.07. We co-organized The 2nd Guangdong-Hong Kong-Macao Greater Bay Area Workshop on Precision Medicine and Big Data in Gastrointestinal Diseases (第二届消化系统疾病精准医学与大数据研讨会).
 
-<br>
-<img src="/img/galary/202007workshop.jpg" width= "800" alt="server" align="center">
-<br><br>
-
-### **Global Young Scientists Summit**
-#### 2020.01. Hao was funded by the Singapore National Research Foundation to attend Global Young Scientists Summit.
-
-<br>
-<img src="/img/galary/HaoSingapore2020.jpg" width= "800" alt="server" align="center">
-<br><br>
 
 ### **Christmas Gathering**
 #### 2020.01. We attended the Christmas Gathering of BMS department.

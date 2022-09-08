@@ -65,11 +65,32 @@ banner = "img/banners/2016.jpg"
 <br>
 ## 2020 
 <br>
+### **Greater Bay Area Workshop**
+#### 2020.07. We co-organized The 3rd Guangdong-Hong Kong-Macao Greater Bay Area Workshop on Big Data and Intelligent Applications in Gastrointestinal Diseases (第三届消化系统疾病大数据智能应用研讨会).
+
+<br>
+<img src="/img/news/202012workshop.jpg" width= "800" alt="server" align="center">
+<br><br>
+
+### **AI and the Future of Healthcare Workshop**
+#### 2020.09.23 Dr. Wang was invited to give a talk about "Leveraging big data, machine learning and artificial intelligence to facilitate cancer classification" in the AI and the Future of Healthcare Workshop by Hong Kong Computer Society!
+
+<br>
+<img src="/img/news/HKCS-AISG-Webinar_23-September-2020.jpg" width= "800" alt="server" align="center">
+<br><br>
 
 #### <li> 2020.09 New members: Li Jiang, Wang Lishi, Wang Xiangeng and Zhang Xianrui joined our group as new PhD students in September! :tada: :gift: :balloon: </li>
 
 <br>
 <br>
+
+### **Greater Bay Area Workshop**
+#### 2020.07. We co-organized The 2nd Guangdong-Hong Kong-Macao Greater Bay Area Workshop on Precision Medicine and Big Data in Gastrointestinal Diseases (第二届消化系统疾病精准医学与大数据研讨会).
+
+<br>
+<img src="/img/news/202007workshop.jpg" width= "800" alt="server" align="center">
+<br><br>
+
 #### <li> 2020.06 Congratulations to Lin Qi for his paper recently published in <em>Science Advances</em>! :tada: :gift: :balloon: </li>
 <br><strong>[Paper](https://advances.sciencemag.org/content/6/24/eaba4971)&nbsp;&nbsp;  [News](https://www.cityu.edu.hk/research/stories/2020/06/11/intracellular-biopsy-technique-fast-micrornas-profiling-living-cells)&nbsp;&nbsp;
 [News](https://scienmag.com/intracellular-biopsy-technique-for-fast-micrornas-profiling-in-living-cells/)&nbsp;&nbsp; [新闻](https://www.cityu.edu.hk/zh-hk/research/stories/2020/06/11/intracellular-biopsy-technique-fast-micrornas-profiling-living-cells)&nbsp;&nbsp; </strong>
