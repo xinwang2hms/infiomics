@@ -23,6 +23,10 @@ banner = "img/banners/2016.jpg"
 #### Hua Xue
 ##### <p align="center"><img src="/img/testimonials/xuehua.jpg" width=250  alt="Currently not available" align=center />
 ##### <p align="center">Development of deep learning and machine leaning models for drug response prediction 
+<br>
+#### Tingting Chen
+##### <p align="center"><img src="/img/testimonials/tingtingchen.jpg" width=250  alt="Currently not available" align=center />
+##### <p align="center">Dissecting intra-tumor heterogeneity and evolution based on integrative analysis of multiomics data 
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ### PhD Students
 <br>
@@ -81,6 +85,23 @@ banner = "img/banners/2016.jpg"
 #### Zhengqian Ye
 ##### <p align="center"><img src="/img/testimonials/zhengqian.jpg" width=250  alt="brain" align=center />
 ##### <p align="center">Applications of artificial intelligence in cancer imaging data and genomics data <br>**PhD student, M.S in Particle Physics&Nuclear Physics.**
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+<br>
+#### Tao Jiang
+##### <p align="center"><img src="/img/testimonials/taojiang.jpg" width=250  alt="brain" align=center />
+##### <p align="center">Structural biology and drug screening <br>**Research Assistant, M.S in Plant Pathology.**
+<br>
+#### Bei Jiang
+##### <p align="center"><img src="/img/testimonials/beijiang.jpg" width=250  alt="brain" align=center />
+##### <p align="center">Cancer proteomics and immunology <br>**PhD student, M.S in Molecular Biology and Biochemistry.**
+<br>
+#### Yijuan Wang
+##### <p align="center"><img src="/img/testimonials/yijuanwang.jpg" width=250  alt="brain" align=center />
+##### <p align="center">Network and systems biology <br>**PhD student, M.S in Bioinformatics.**
+<br>
+#### Xiang Li
+##### <p align="center"><img src="/img/testimonials/xiangli.jpg" width=250  alt="brain" align=center />
+##### <p align="center">Cancer biomarker development <br>**PhD student, Master of Surgery.**
 <br>
 <br><br><br>
 
