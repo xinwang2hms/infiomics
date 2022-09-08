@@ -44,7 +44,7 @@ banner = "img/banners/2016.jpg"
 <br>
 #### <li> 2021.11 Dr. Wang started his new career in the Chinese University of Hong Kong Faculty of Medicine! </li>
 <br>
-#### Dr. Wang gave a talk about "Leveraging data integration for cancer classification and biomarker identification" at The Annual Meeting of the International Conference on Genomics (ICG-16).
+#### <li> Dr. Wang gave a talk about "Leveraging data integration for cancer classification and biomarker identification" at The Annual Meeting of the International Conference on Genomics (ICG-16). </li>
 <br>
 <br>
 #### <li> 2021.09 Congratulations to Yu Chen, Tan Wu, and Zhongxu Zhu for their paper recently published in <em>Seminars in Cancer Biology</em>! :tada: :gift: :balloon: </li>
@@ -148,7 +148,7 @@ banner = "img/banners/2016.jpg"
 
 #### <li> 2019.07 Congratulations to Huang Hao for his paper recently published in <em>Nature Communications</em>! :tada: :gift: :balloon: </li>
 
-<br><strong>[Paper](https://www.nature.com/articles/s41467-019-10778-w).  [News](https://mp.weixin.qq.com/s/B8UTzOlKA3u9OqVOhWWaFA) </strong>
+<br><strong>[Paper](https://www.nature.com/articles/s41467-019-10778-w)&nbsp;&nbsp;  [News](https://mp.weixin.qq.com/s/B8UTzOlKA3u9OqVOhWWaFA) </strong>
 <br>
 <br>
 
@@ -166,7 +166,7 @@ banner = "img/banners/2016.jpg"
 
 #### <li> 2019.03 Congratulations to Gao Feng for his paper recently published in Gastroenterology! :tada: :gift: :balloon: </li>
 
-<br><strong>[Paper](https://www.gastrojournal.org/article/S0016-5085(19)30436-6/abstract).  [News](http://www.cityu.edu.hk/vprt/news/2019/a-biomarker-for-categorizing-colorectal-cancer-patients/) </strong>
+<br><strong>[Paper](https://www.gastrojournal.org/article/S0016-5085(19)30436-6/abstract)&nbsp;&nbsp; [News](http://www.cityu.edu.hk/vprt/news/2019/a-biomarker-for-categorizing-colorectal-cancer-patients/) </strong>
 
 <img src="/img/carousel/biomaker.jpg" width= "800" alt="server" align="center">
 <br>
@@ -174,7 +174,7 @@ banner = "img/banners/2016.jpg"
 
 #### <li> 2019.03 Congratulations to Duan Xin for his paper recently published and highlighted in <em>Nature Communications</em>! :tada: :gift: :balloon: </li>
 
-<br><strong>[Paper](https://www.nature.com/articles/s41467-018-07289-5).  [News](https://newscentre.cityu.edu.hk/media/news/2019/03/18/neuromedicine-breakthrough-harvard-university) </strong></li> 
+<br><strong>[Paper](https://www.nature.com/articles/s41467-018-07289-5)&nbsp;&nbsp; [News](https://newscentre.cityu.edu.hk/media/news/2019/03/18/neuromedicine-breakthrough-harvard-university) </strong></li> 
 
 <img src="/img/news/zebrafish.jpg" width= "800" alt="server" align="center">
 <br>
