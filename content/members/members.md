@@ -17,15 +17,15 @@ banner = "img/banners/2016.jpg"
 ### Postdoctoral fellow
 <br>
 #### Kai Song
-##### <p align="center"><img src="/img/testimonials/songkaib.jpg" width=250  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/songkaib.jpg" width=300  alt="brain" align=center />
 ##### <p align="center">Pan-GI cancer subtyping by integrative analysis of multi-omics data 
 <br>
 #### Hua Xue
-##### <p align="center"><img src="/img/testimonials/xuehuab.jpg" width=250  alt="Currently not available" align=center />
+##### <p align="center"><img src="/img/testimonials/xuehuab.jpg" width=300  alt="Currently not available" align=center />
 ##### <p align="center">Development of deep learning and machine leaning models for drug response prediction 
 <br>
 #### Tingting Chen
-##### <p align="center"><img src="/img/testimonials/tingtingchenb.jpg" width=250  alt="Currently not available" align=center />
+##### <p align="center"><img src="/img/testimonials/tingtingchenb.jpg" width=300  alt="Currently not available" align=center />
 ##### <p align="center">Dissecting intra-tumor heterogeneity and evolution based on integrative analysis of multiomics data 
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ### PhD Students
