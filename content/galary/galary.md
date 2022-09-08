@@ -5,8 +5,15 @@ keywords = ["Gallery","Photo","Lab","Gathering"]
 +++
 
 <div align=center>
+## 2022
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+### **Student visiting research**
+#### 2022.4 - 2022.8 Yi and Lingli visited Dr. Ke Yuan's Lab in the University of Glasgow!
+<br>
+<img src="/img/galary/glasgow2022b.jpg" width= "800" alt="server" align="center">
+<br><br>
 
-## 2021-2022
+## 2021
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ### **Student visiting research**
 #### 2021.09 - 2022.01 Lin visited Prof. Yinyin Yuan's Lab in the Institute of Cancer Research, London!
@@ -38,7 +45,7 @@ keywords = ["Gallery","Photo","Lab","Gathering"]
 #### 2020.09.23 Dr. Wang was invited to give a talk about "Leveraging big data, machine learning and artificial intelligence to facilitate cancer classification" in the AI and the Future of Healthcare Workshop by Hong Kong Computer Society!
 
 <br>
-<img src="/img/galary/HKCI2020.jpg" width= "800" alt="server" align="center">
+<img src="/img/galary/HKCS-AISG-Webinar_23-September-2020.jpg" width= "800" alt="server" align="center">
 <br><br>
 
 ### **Teachers' Day**
