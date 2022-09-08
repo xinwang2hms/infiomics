@@ -6,6 +6,25 @@ keywords = ["Gallery","Photo","Lab","Gathering"]
 
 <div align=center>
 
+## 2021-2022
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+### **Student visiting research**
+#### 2021.09 - 2022.01 Lin visited Prof. Yinyin Yuan's Lab in the Institute of Cancer Research, London!
+<br>
+<img src="/img/galary/ICR2021.jpg" width= "800" alt="server" align="center">
+<br><br>
+
+#### 2021.09 - 2022.02 Miaomiao and Tan visited Prof. Louis Vermeulen's Lab in the University of Amsterdam!
+<br>
+<img src="/img/galary/Amsterdam2021.jpg" width= "800" alt="server" align="center">
+<br><br>
+
+#### 2021.07 - 2021.12 Zhongxu and Rayna did visiting research in Prof. Ajay Goel's Lab in the City Of Hope!
+
+<br>
+<img src="/img/galary/CityOfHope2021.jpg" width= "800" alt="server" align="center">
+<br><br>
+
 ## 2020
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ### **Teachers' Day**
